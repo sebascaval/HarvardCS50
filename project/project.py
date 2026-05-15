@@ -1,7 +1,7 @@
 from musixmatch import Musixmatch
 import random
 
-musixmatch = Musixmatch("2e19cd693263baf48090a04830c728b9")  # this is my API key to use the Musixmatch API
+musixmatch = Musixmatch("INSERT API KEY HERE")  # use API key to use the Musixmatch API
 
 
 def main():
